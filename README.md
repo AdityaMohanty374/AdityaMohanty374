@@ -1,8 +1,5 @@
 # Hello
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 ```
 class SoftwareEngineer:
 
@@ -19,7 +16,6 @@ me = SoftwareEngineer()
 me.say_hi()
 
 ```
-<p align="left">Hello World!!</p>
 
 ###
 
@@ -65,9 +61,3 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaMohanty374&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaMohanty374&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AdityaMohanty374/AdityaMohanty374/output/snake.svg" alt="Snake animation" />
-
-###
